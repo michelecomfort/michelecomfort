@@ -1,4 +1,4 @@
-### Well, hello there! 👋
+# Well, hello there! 👋
 
 I am Michele, a Frontend Software Developer 👩🏻‍💻 living in 🏔Denver, Colorado.
 
@@ -12,4 +12,6 @@ I am a seasoned traveler 🌍, lover of the outdoors 🌱 and music 🎶, and a 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michelecomfort&layout=compact&langs_count=8&theme=algolia)](https://github.com/michelecomfort/github-readme-stats)
 
+# Skills
 
+	![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
