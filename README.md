@@ -8,8 +8,8 @@ Currently on my way to becoming a skilled React developer!
 I am a seasoned traveler 🌍, lover of the outdoors 🌱 and music 🎶, and a jigsaw puzzle 🧩 fanatic!
 
 
-[![Michele's GitHub stats](https://github-readme-stats.vercel.app/api?username=michelecomfort&count_private=true&show_icons=true&theme=gotham&hide=stars)](https://github.com/michelecomfort/github-readme-stats)
+[![Michele's GitHub stats](https://github-readme-stats.vercel.app/api?username=michelecomfort&count_private=true&show_icons=true&theme=algolia&hide=stars)](https://github.com/michelecomfort/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michelecomfort&layout=compact&langs_count=8&theme=gotham)](https://github.com/michelecomfort/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michelecomfort&layout=compact&langs_count=8&theme=algolia)](https://github.com/michelecomfort/github-readme-stats)
 
 
