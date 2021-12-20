@@ -12,4 +12,4 @@ I am a seasoned traveler 🌍, lover of the outdoors 🌱 and music 🎶, and a 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michelecomfort&layout=compact)](https://github.com/michelecomfort/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=michelecomfort&repo=github-readme-stats)](https://github.com/michelecomfort/github-readme-stats)
+
