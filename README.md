@@ -1,7 +1,7 @@
 # Hi there! 👋
 ![Michele's GitHub Banner](./assets/GitHub_banner.png)
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michelecomfort/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white =1500x1500)](https://www.linkedin.com/in/michelecomfort/)
 
 I am Michele, a Frontend Software Developer 👩🏻‍💻 living a swell life in 🏔Denver, Colorado.
 
