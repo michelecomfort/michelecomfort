@@ -1,5 +1,5 @@
 # Hi there! 👋
-![Michele's GitHub Banner](./assets/GitHub_banner.png =1500x)
+![Michele's GitHub Banner](./assets/GitHub_banner.png)
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michelecomfort/)
 
