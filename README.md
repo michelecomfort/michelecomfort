@@ -1,13 +1,11 @@
 ### Well, hello! 👋
 
-I am Michele, a ![image](https://user-images.githubusercontent.com/86859884/146837356-d42eb554-4542-49ca-991f-2259e3859aa9.png)
-Frontend Software Developer![image](https://user-images.githubusercontent.com/86859884/146837378-fc0074b0-df6f-4a71-9603-9cd167acad91.png)
- living in Denver, Colorado.
+I am Michele👩🏻‍💻, a Frontend Software Developer living in 🏔Denver, Colorado.
 
-Having spent the previous 10 years as an educator, I'm pumped to be challenging myself in brand new ways!
-Currently on my way to becoming a skilled React developer!
+Having spent the previous 10 years as an 📚educator, I'm pumped to be challenging myself in brand new ways!
+🌱 Currently on my way to becoming a skilled React developer!
 
-I am a seasoned traveler, lover of the outdoors and music, and a jigsaw puzzle fanatic!
+I am a seasoned traveler🌍, lover of the outdoors🌱 and music🎶, and a jigsaw puzzle fanatic🧩!
 <!--
 **michelecomfort/michelecomfort** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
