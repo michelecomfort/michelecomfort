@@ -1,6 +1,7 @@
 # 🌿 Hi there! 
 ![Michele's GitHub Banner](./assets/GitHub_banner.png)
 
+
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michelecomfort/)
 
 # ✨ A Wee Bit About Me
@@ -15,7 +16,7 @@ I am a seasoned traveler 🌍, lover of the outdoors 🌱 and music 🎶, and a 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michelecomfort&layout=compact&langs_count=8&theme=algolia)](https://github.com/michelecomfort/github-readme-stats)
 
-# 🔧 Things I work with
+# 🛠 Things I work with
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
