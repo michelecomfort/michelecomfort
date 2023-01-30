@@ -7,8 +7,7 @@
 # ✨ A Wee Bit About Me
 I am Michele 🙋🏻‍♀️, a Frontend Software Developer 👩🏻‍💻 living a swell life in Denver, Colorado 🏔.
 
-Having spent the previous 10 years as an educator 📚, I'm pumped to be challenging myself in brand new ways!
-Currently on my way to becoming a skilled React developer!
+Having spent the previous 10 years as an educator 📚, I'm pumped to be challenging myself in brand new ways
 
 I am a seasoned traveler 🌍, lover of the outdoors 🌱 and music 🎶, and a jigsaw puzzle 🧩 fanatic!
 
